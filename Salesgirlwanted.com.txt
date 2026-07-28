@@ -1,0 +1,91 @@
+Salesgirlwanted.com.ng Wanted by Plymouth Group
+//frontend
+home
+service policy
+smes (sponsored)
+blog (company/app updates)
+contact us (form)
+login
+
+//home
+search (routes)
+insights
+	registered smes
+	verified labour
+	employment rate
+featured smes
+general adverts
+footer
+jumplinks
+social media
+
+//sme
+name
+type
+logo
+telephone
+[email]
+address
+[password]
+
+//labour
+(*) public
+(#) private
+*profile
+*name
+*date of birth
+*state of origin
+#[phone]
+#routes (use better name)
+[password]
+
+//garantus form N1,000
+	use bank form layout
+	applicants account is verified
+	give labour garantus letter
+passport
+valid form of id
+utilty bill
+state
+inner city
+area
+home address
+?email
+?bank
+?account name
+?account number
+
+//dashboard
+dashboard (secured employment)
+notification->blog
+account settings (verify your account)
+
+//backend
+traffic (visitors, sme reg, labour reg)
+active (mau = unique login per 30 days, dau = mau/30)
+sme (total, advertising)
+labour (total, verified, employed)
+admin (log)
+
+//marketing
+*social media
+radio
+newspaper
+billboard
+
+//revenue
+garantus form
+?salary percentage
+featured ads
+general ads
+?vacancy
+
+// alpha
+Howtos for labour
+Howtos for smes
+Apply within 
+Forum
+Ratings
+http://musings.irreverentsalesgirl.com/
+
+
